@@ -1,5 +1,13 @@
-# Projeto de Introdução à Arquitetura de Computadores 
+# 🦖 Dino Game - Computer Architecture Project
 
-O projeto consiste no desenvolvimento de um jogo muito simples, que é uma versão simplificada do jogo Dino, 
-que surge no browser Chrome quando a máquina não consegue aceder à Internet. :t-rex: 
+Project for the **Introduction to Computer Architecture** course.
+A simplified version of the Chrome offline Dino game (the dinosaur 
+that appears when there is no internet connection), developed in 
+Assembly for the P4 simulator.
 
+## ▶️ How to run
+
+1. Clone the repository
+2. Open the P4 simulator
+3. Load the project file
+4. Run the program
